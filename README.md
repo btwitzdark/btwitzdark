@@ -1,7 +1,4 @@
 <br/>
-<a href="https://discord.com/users/888740996052049940">
- <img align="left" alt="D A R K Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://github.com/btwitzdark/">
 <img align ="left" alt="D A R K Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
