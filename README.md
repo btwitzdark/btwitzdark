@@ -4,7 +4,7 @@
 </a>
 <br/> <br/> 
 
-![Discord](https://discord.c99.nl/widget/theme-3/888740996052049940.png)
+![Discord](https://discordapp.com/users/888740996052049940)
 
 
 ![GitHub](https://github.com/btwitzdark)
